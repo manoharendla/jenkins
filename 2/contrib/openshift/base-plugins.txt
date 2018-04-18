@@ -6,6 +6,9 @@ openshift-client:1.0.9
 # kubernetes plugin - https://wiki.jenkins-ci.org/display/JENKINS/Kubernetes+Plugin
 kubernetes:1.2
 
+#chekmarx plugin
+Checkmarx:8.60.0
+
 # fabric8 openshift sync
 openshift-sync:1.0.10
 
